@@ -1,4 +1,1 @@
-postgres:15.8
-postgres:17
-jellyfin/jellyfin:10.9
-metatube/metatube-server
+xhofe/alist:v3.38.0
