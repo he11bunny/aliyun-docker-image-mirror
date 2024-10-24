@@ -1,1 +1,1 @@
-portainer/portainer-ce:2.23.0
+linuxserver/calibre-web:0.6.23
